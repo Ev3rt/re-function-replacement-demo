@@ -1,1 +1,3 @@
 # re-function-replacement-demo
+This repository contains the source code for the Demo Application, Injector and Re-implementation DLL for the blog post available [here](https://everthessel.nl/2023/12/game-re-implementation-through-function-replacement/).
+The Injector and hooking mechanism in the DLL are heavily based on the source code of [Thyme](https://github.com/TheAssemblyArmada/Thyme). Therefore, the source code provided in this repository is also licenced under the [GNU General Public License version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) or later.
